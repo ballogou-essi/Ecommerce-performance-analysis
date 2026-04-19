@@ -19,9 +19,9 @@ Ce projet répond à 4 questions métier concrètes :
 
 ## Dashboard Power BI
 
-![Dashboard](assets/dashboard.gif)
+![Dashboard](https://github.com/ballogou-essi/Ecommerce-performance-analysis/blob/main/D%C3%A9mo/d%C3%A9mo.gif)
 
-Accédez au PDF : [PBX_PDF]()
+Accédez au PDF : [PBX_PDF](https://github.com/ballogou-essi/Ecommerce-performance-analysis/blob/main/PBX/Suivi_retail.pdf)
 ---
 
 ## Structure du projet
