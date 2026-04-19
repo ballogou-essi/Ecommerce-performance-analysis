@@ -5,6 +5,13 @@
 
 ---
 
+## Dashboard Power BI
+
+![Dashboard](https://github.com/ballogou-essi/Ecommerce-performance-analysis/blob/main/D%C3%A9mo/d%C3%A9mo.gif)
+
+Accédez au PDF : [PBX_PDF](https://github.com/ballogou-essi/Ecommerce-performance-analysis/blob/main/PBX/Suivi_retail.pdf)
+
+---
 ## Contexte
 
 Une entreprise britannique de vente en ligne (cadeaux & décoration) souhaite piloter sa performance commerciale et mieux comprendre la valeur de ses clients.
@@ -15,13 +22,6 @@ Ce projet répond à 4 questions métier concrètes :
 3. Quel est l'impact financier des retours produits ?
 4. Qui sont nos meilleurs clients — et lesquels sont à risque ?
 
----
-
-## Dashboard Power BI
-
-![Dashboard](https://github.com/ballogou-essi/Ecommerce-performance-analysis/blob/main/D%C3%A9mo/d%C3%A9mo.gif)
-
-Accédez au PDF : [PBX_PDF](https://github.com/ballogou-essi/Ecommerce-performance-analysis/blob/main/PBX/Suivi_retail.pdf)
 ---
 
 ## Structure du projet
