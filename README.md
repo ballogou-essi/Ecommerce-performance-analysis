@@ -6,7 +6,7 @@
 ---
 
 ## Dashboard Power BI
-Accédez au PDF : [PBX_PDF](https://github.com/ballogou-essi/Ecommerce-performance-analysis/blob/main/PBX/Suivi_retail.pdf)
+👉 Accédez au PDF : [PBX_PDF](https://github.com/ballogou-essi/Ecommerce-performance-analysis/blob/main/PBX/Suivi_retail.pdf)
 
 ![Dashboard](https://github.com/ballogou-essi/Ecommerce-performance-analysis/blob/main/D%C3%A9mo/d%C3%A9mo.gif)
 
